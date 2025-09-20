@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm jinguikim 👋
 
-<!--
-**jinguikim/jinguikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%;" />
 
-Here are some ideas to get you started:
+## 🧑‍💻 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 职业：算法工程师
+- 🔬 方向：机器学习
+- 💻 常用语言：Python、Gio
+
+## ✨ 座右铭
+
+> 欢迎和我一起改变这个世界
